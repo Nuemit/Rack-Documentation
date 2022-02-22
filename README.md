@@ -7,7 +7,7 @@ Creation of a documentation tool to present infrastructures in a simplified way.
 ## Thinking
 It would be really cool if the network could document itself, wouldn't it?
 
-I'm thinking a lot about how to achieve this to make life easier for sys admins and 1st level support.
+I'm thinking a lot about how to achieve this to make life easier for sys admins and 1st/2nd level support.
 
 What do we need for this?
 
