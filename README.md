@@ -31,4 +31,4 @@ Since im not a designer i would maybe go for something similiar like this.
 
 ![readable](https://user-images.githubusercontent.com/99821532/155344957-b3546981-9f33-40c2-8362-7cda594a7eb3.png)
 
-its readable and self exolaining I guess.
+its readable and self explaining I guess.
