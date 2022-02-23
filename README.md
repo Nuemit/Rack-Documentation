@@ -25,3 +25,10 @@ Also Images to have something that looks similiar to a Rack or hubs.
     * Name:     Hubx16
     * Nodes:    hub_00 ... hub_15
     * Sprites:  outterframe, bug_f
+
+## What can the solution look like at the and?
+Since im not a designer i would maybe go for something similiar like this.
+
+![readable](https://user-images.githubusercontent.com/99821532/155344957-b3546981-9f33-40c2-8362-7cda594a7eb3.png)
+
+its readable and self exolaining I guess.
